@@ -15,7 +15,10 @@
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
-
+    <label for="mobile"><b>Enter SSN</b></label>
+    <input type="text" placeholder="Enter SSN" name="ssn" id="ssn" required>
+    <br>
+    
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
